@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F3E6BD;
+}
+
+#background-recheioDeMorango {
+    width: 100%;
+    height: 370px;
+    background-color: #FFACD0;
+}
+
+header {
+    color: #AD2831;
+}
+
+#img-recheioDeMorango {
+    width: 100%;
+}
